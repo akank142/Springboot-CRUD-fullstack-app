@@ -1,1 +1,1 @@
-Spring-Boot-CRUD-Full-Stack-App
+SpringBoot CRUD FullStack App
